@@ -1,8 +1,19 @@
-# Hi, I'm Girish Patil 👋
+<div align="center">
+
+# Girish Patil
 
 ### Artificial Intelligence & Data Science Student
 
-**Building intelligent systems through software engineering, machine learning, and AI.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Software+Engineering+%7C+AI+%7C+Intelligent+Applications;Exploring+LLMs+and+RAG+Systems;Turning+Ideas+into+Practical+Products" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/girish-patil-754276216)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:girishofficial26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/girishpatil935)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/Girish5)
+
+</div>
 
 ---
 
@@ -10,9 +21,9 @@
 
 I am an Artificial Intelligence & Data Science student passionate about building intelligent systems that combine software engineering, scalable architectures, and applied AI.
 
-My work focuses on creating practical products that solve real-world problems, ranging from AI-powered platforms and intelligent applications to backend systems and developer tools. I enjoy exploring how modern AI systems are designed, integrated, and deployed while strengthening the engineering foundations that power them.
+My work focuses on creating practical products that solve real-world problems, ranging from AI-powered platforms and intelligent applications to backend systems and developer-focused tools. I enjoy exploring how modern AI systems are designed, integrated, and deployed while strengthening the engineering foundations that power them.
 
-I am particularly interested in Large Language Models, Retrieval-Augmented Generation (RAG), intelligent applications, and the intersection of AI and software engineering.
+I am particularly interested in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), intelligent applications, and the intersection of AI and software engineering.
 
 ---
 
@@ -20,44 +31,44 @@ I am particularly interested in Large Language Models, Retrieval-Augmented Gener
 
 ### Languages
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
 ### Frontend
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ### Backend & Databases
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=django,postgresql,sqlite" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
 </p>
 
 ### AI & Data
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-5A67D8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-5A67D8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 </p>
 
 ### Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,docker,linux" />
 </p>
 
@@ -89,7 +100,6 @@ A full-stack platform designed to visualize real-world backend system flows incl
 | Architecture | JSON-driven visualization engine       |
 | Focus        | System Design & Backend Concepts       |
 | Impact       | Interactive learning platform          |
-| Repository   | Available on GitHub                    |
 
 </details>
 
@@ -104,7 +114,6 @@ An asynchronous processing platform focused on file workflows, background task e
 | Architecture | Event-driven task processing      |
 | Focus        | Backend Systems                   |
 | Status       | In Development                    |
-| Repository   | Available on GitHub               |
 
 </details>
 
@@ -113,13 +122,12 @@ An asynchronous processing platform focused on file workflows, background task e
 
 An AI-powered weather intelligence platform integrating forecasting, agricultural insights, and information summarization.
 
-| Category   | Details                             |
-| ---------- | ----------------------------------- |
-| Stack      | Python, React, TensorFlow           |
-| Focus      | Applied AI                          |
-| Feature    | NLP-based information summarization |
-| Impact     | Localized weather intelligence      |
-| Repository | Available on GitHub                 |
+| Category | Details                             |
+| -------- | ----------------------------------- |
+| Stack    | Python, React, TensorFlow           |
+| Focus    | Applied AI                          |
+| Feature  | NLP-based information summarization |
+| Impact   | Localized weather intelligence      |
 
 </details>
 
@@ -128,13 +136,12 @@ An AI-powered weather intelligence platform integrating forecasting, agricultura
 
 An intelligent interview preparation platform capable of generating domain-specific questions and assisting users with structured practice.
 
-| Category   | Details                             |
-| ---------- | ----------------------------------- |
-| Stack      | Python, React, AI APIs              |
-| Focus      | Intelligent Learning Systems        |
-| Feature    | Dynamic interview generation        |
-| Impact     | Personalized preparation experience |
-| Repository | Available on GitHub                 |
+| Category | Details                             |
+| -------- | ----------------------------------- |
+| Stack    | Python, React, AI APIs              |
+| Focus    | Intelligent Learning Systems        |
+| Feature  | Dynamic interview generation        |
+| Impact   | Personalized preparation experience |
 
 </details>
 
@@ -182,26 +189,38 @@ Goal:
 
 ---
 
-## Connect
+## Contribution Snake
 
-<p align="left">
-<a href="https://linkedin.com/in/girish-patil-754276216">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:girishofficial26@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/girishpatil935">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Girish5">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girishpatil935/girishpatil935/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-> Building intelligent systems through software engineering, machine learning, and AI.
+## Connect
+
+<p align="center">
+  <a href="mailto:girishofficial26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/girish-patil-754276216">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/girishpatil935">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Girish5">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Building intelligent systems through software engineering, machine learning, and AI.
+
+</div>
