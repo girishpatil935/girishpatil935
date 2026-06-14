@@ -2,25 +2,17 @@
 
 ### Artificial Intelligence & Data Science Student
 
-Building intelligent systems through software engineering, machine learning, and AI.
+**Building intelligent systems through software engineering, machine learning, and AI.**
 
 ---
 
 ## About Me
 
-I am an Artificial Intelligence & Data Science student passionate about building intelligent systems that combine software engineering, machine learning, and scalable applications.
+I am an Artificial Intelligence & Data Science student passionate about building intelligent systems that combine software engineering, scalable architectures, and applied AI.
 
-My work spans AI-powered platforms, backend systems, full-stack applications, and developer-focused tools. Through projects involving intelligent interview preparation, backend visualization, cloud-based processing workflows, and AI-enhanced weather intelligence, I enjoy transforming ideas into practical products that solve real-world problems.
+My work focuses on creating practical products that solve real-world problems, ranging from AI-powered platforms and intelligent applications to backend systems and developer tools. I enjoy exploring how modern AI systems are designed, integrated, and deployed while strengthening the engineering foundations that power them.
 
-I believe strong AI products are built on strong engineering foundations. Alongside machine learning and AI, I focus on software engineering principles, backend architecture, system design, and scalable application development.
-
-### Open To
-
-* AI Engineering Opportunities
-* Software Engineering Internships
-* Backend Development Roles
-* Research Collaborations
-* Open Source Contributions
+I am particularly interested in Large Language Models, Retrieval-Augmented Generation (RAG), intelligent applications, and the intersection of AI and software engineering.
 
 ---
 
@@ -28,50 +20,59 @@ I believe strong AI products are built on strong engineering foundations. Alongs
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
 
 ### Backend & Databases
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,postgresql,sqlite" />
+</p>
 
-### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-5A67D8?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+### AI & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-5A67D8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
 
 ---
 
-## AI / ML Focus
+## AI & Intelligent Systems
 
-| Domain               | Focus                           |
-| -------------------- | ------------------------------- |
-| Machine Learning     | Applied ML & Predictive Systems |
-| LLM Applications     | AI-powered User Experiences     |
-| NLP                  | Text Processing & Summarization |
-| Intelligent Systems  | Real-world AI Integration       |
-| Software Engineering | Scalable AI Product Development |
+| Domain                         | Focus                                                   |
+| ------------------------------ | ------------------------------------------------------- |
+| Intelligent Applications       | Building AI-powered user experiences                    |
+| Large Language Models          | Practical LLM integration                               |
+| Retrieval-Augmented Generation | Knowledge-grounded AI systems                           |
+| Backend Systems                | Scalable application architecture                       |
+| Software Engineering           | Production-ready development                            |
+| Applied AI                     | Solving real-world problems through intelligent systems |
 
 ---
 
@@ -80,82 +81,62 @@ I believe strong AI products are built on strong engineering foundations. Alongs
 <details>
 <summary><b>Backend Visualization Engine (BVE)</b></summary>
 
-A full-stack platform that visualizes real-world backend system flows including API lifecycles, caching, CI/CD pipelines, Kubernetes scaling, and WebSocket communication.
+A full-stack platform designed to visualize real-world backend system flows including API request lifecycles, cache operations, CI/CD pipelines, Kubernetes scaling, and WebSocket communication.
 
-| Category     | Details                            |
-| ------------ | ---------------------------------- |
-| Stack        | Python, React, SVG, Vite, Tailwind |
-| Focus        | Backend System Visualization       |
-| Architecture | JSON-driven Rendering Engine       |
-| Impact       | Interactive Learning Platform      |
-| Repository   | Available on GitHub                |
+| Category     | Details                                |
+| ------------ | -------------------------------------- |
+| Stack        | Python, React, SVG, Vite, Tailwind CSS |
+| Architecture | JSON-driven visualization engine       |
+| Focus        | System Design & Backend Concepts       |
+| Impact       | Interactive learning platform          |
+| Repository   | Available on GitHub                    |
 
 </details>
 
 <details>
 <summary><b>Cloud File Processing Platform</b></summary>
 
-Building an asynchronous processing platform with background task execution, file workflow management, and scalable architecture.
+An asynchronous processing platform focused on file workflows, background task execution, and scalable backend architecture.
 
 | Category     | Details                           |
 | ------------ | --------------------------------- |
 | Stack        | Django, Celery, Redis, PostgreSQL |
+| Architecture | Event-driven task processing      |
 | Focus        | Backend Systems                   |
-| Architecture | Asynchronous Processing           |
-| Impact       | Scalable File Workflows           |
 | Status       | In Development                    |
+| Repository   | Available on GitHub               |
 
 </details>
 
 <details>
 <summary><b>Weather Nexus</b></summary>
 
-AI-powered weather platform combining forecasting, agricultural insights, and intelligent information delivery.
+An AI-powered weather intelligence platform integrating forecasting, agricultural insights, and information summarization.
 
-| Category   | Details                   |
-| ---------- | ------------------------- |
-| Stack      | Python, React, TensorFlow |
-| Focus      | Applied AI                |
-| Feature    | NLP-based Summarization   |
-| Impact     | Location-based Insights   |
-| Repository | Available on GitHub       |
+| Category   | Details                             |
+| ---------- | ----------------------------------- |
+| Stack      | Python, React, TensorFlow           |
+| Focus      | Applied AI                          |
+| Feature    | NLP-based information summarization |
+| Impact     | Localized weather intelligence      |
+| Repository | Available on GitHub                 |
 
 </details>
 
 <details>
 <summary><b>PrepMind AI</b></summary>
 
-AI-driven interview preparation platform capable of generating domain-specific interview questions and evaluations.
+An intelligent interview preparation platform capable of generating domain-specific questions and assisting users with structured practice.
 
-| Category   | Details                         |
-| ---------- | ------------------------------- |
-| Stack      | Python, React, AI APIs          |
-| Focus      | Intelligent Learning Systems    |
-| Feature    | Dynamic Question Generation     |
-| Impact     | Personalized Interview Practice |
-| Repository | Available on GitHub             |
+| Category   | Details                             |
+| ---------- | ----------------------------------- |
+| Stack      | Python, React, AI APIs              |
+| Focus      | Intelligent Learning Systems        |
+| Feature    | Dynamic interview generation        |
+| Impact     | Personalized preparation experience |
+| Repository | Available on GitHub                 |
 
 </details>
-
----
-
-## Leadership & Activities
-
-* Head of Management — Research & Development Department
-* Technical Team Coordinator — Datathon 2026
-* Technical Coordinator — Insight Hub (AI & DS Club)
-* Hackathon Team Lead
-* Cricket Team Captain
-
----
-
-## Education
-
-**B.Tech — Artificial Intelligence & Data Science**
-
-Pimpri Chinchwad University
-
-CGPA: **9.19**
 
 ---
 
@@ -164,38 +145,62 @@ CGPA: **9.19**
 ```yaml
 Building:
   - AI-Powered Applications
+  - Backend Systems
   - Intelligent Developer Tools
-  - Scalable Backend Systems
 
 Exploring:
-  - Large Language Models
   - Retrieval-Augmented Generation
-  - AI System Architecture
+  - Large Language Models
+  - AI System Design
 
-Long-Term Goal:
+Goal:
   - AI Engineering
-  - Applied Machine Learning
-  - Research-Driven Product Development
+  - Intelligent Systems
+  - Research-Driven Development
 ```
 
 ---
 
 ## GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=girishpatil935\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=girishpatil935&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishpatil935&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=girishpatil935\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishpatil935&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girishpatil935\&layout=compact\&theme=tokyonight)
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girishpatil935&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## Connect
 
-* LinkedIn: https://linkedin.com/in/girish-patil-754276216
-* GitHub: https://github.com/girishpatil935
-* Email: [girishofficial26@gmail.com](mailto:girishofficial26@gmail.com)
-* LeetCode: https://leetcode.com/u/Girish5
+<p align="left">
+<a href="https://linkedin.com/in/girish-patil-754276216">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:girishofficial26@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/girishpatil935">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Girish5">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
 
 ---
 
