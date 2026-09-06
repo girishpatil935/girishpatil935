@@ -86,64 +86,68 @@ I am particularly interested in Large Language Models (LLMs), Retrieval-Augmente
 | Applied AI                     | Solving real-world problems through intelligent systems |
 
 ---
-
 ## Featured Projects
 
 <details>
-<summary><b>Backend Visualization Engine (BVE)</b></summary>
+<summary><b><a href="https://github.com/girishpatil935/GitScope_AI">GitScope_AI</a></b></summary>
 
-A full-stack platform designed to visualize real-world backend system flows including API request lifecycles, cache operations, CI/CD pipelines, Kubernetes scaling, and WebSocket communication.
+An AI-powered GitHub repository intelligence platform designed to analyze repositories, understand project structure, and generate meaningful insights from codebases.
+
+| Category     | Details                             |
+| ------------ | ----------------------------------- |
+| Stack        | Python, AI/ML, GitHub API           |
+| Architecture | Repository analysis pipeline        |
+| Focus        | AI Engineering & Developer Tools    |
+| Feature      | AI-powered repository analysis      |
+| Impact       | Intelligent GitHub project insights |
+
+</details>
+
+<details>
+<summary><b><a href="https://github.com/girishpatil935/STRATOS-">STRATOS</a></b></summary>
+
+An intelligent platform focused on transforming complex data and workflows into actionable insights through AI-powered analysis and visualization.
 
 | Category     | Details                                |
 | ------------ | -------------------------------------- |
-| Stack        | Python, React, SVG, Vite, Tailwind CSS |
-| Architecture | JSON-driven visualization engine       |
-| Focus        | System Design & Backend Concepts       |
-| Impact       | Interactive learning platform          |
+| Stack        | Python, AI/ML, React                   |
+| Architecture | Modular AI-driven platform             |
+| Focus        | Artificial Intelligence & Data Systems |
+| Feature      | Intelligent data analysis              |
+| Impact       | Actionable insights from complex data  |
 
 </details>
 
 <details>
-<summary><b>Cloud File Processing Platform</b></summary>
+<summary><b><a href="https://github.com/girishpatil935/fake-news-detection">Fake News Detection</a></b></summary>
 
-An asynchronous processing platform focused on file workflows, background task execution, and scalable backend architecture.
+A machine learning-based system designed to classify news content as fake or reliable using natural language processing and supervised learning techniques.
+
+| Category     | Details                              |
+| ------------ | ------------------------------------ |
+| Stack        | Python, Scikit-learn, NLP            |
+| Architecture | Supervised machine learning pipeline |
+| Focus        | Machine Learning & NLP               |
+| Feature      | Automated fake news classification   |
+| Impact       | AI-assisted misinformation detection |
+
+</details>
+
+<details>
+<summary><b><a href="https://github.com/girishpatil935/CloudDocs-AI">CloudDocs-AI</a></b></summary>
+
+An AI-powered cloud document processing platform designed to intelligently process, analyze, and interact with documents through scalable backend workflows.
 
 | Category     | Details                           |
 | ------------ | --------------------------------- |
-| Stack        | Django, Celery, Redis, PostgreSQL |
-| Architecture | Event-driven task processing      |
-| Focus        | Backend Systems                   |
-| Status       | In Development                    |
+| Stack        | Python, AI/ML, Cloud Technologies |
+| Architecture | Cloud-based document processing   |
+| Focus        | AI & Cloud Computing              |
+| Feature      | Intelligent document processing   |
+| Impact       | Automated document analysis       |
 
 </details>
 
-<details>
-<summary><b>Weather Nexus</b></summary>
-
-An AI-powered weather intelligence platform integrating forecasting, agricultural insights, and information summarization.
-
-| Category | Details                             |
-| -------- | ----------------------------------- |
-| Stack    | Python, React, TensorFlow           |
-| Focus    | Applied AI                          |
-| Feature  | NLP-based information summarization |
-| Impact   | Localized weather intelligence      |
-
-</details>
-
-<details>
-<summary><b>PrepMind AI</b></summary>
-
-An intelligent interview preparation platform capable of generating domain-specific questions and assisting users with structured practice.
-
-| Category | Details                             |
-| -------- | ----------------------------------- |
-| Stack    | Python, React, AI APIs              |
-| Focus    | Intelligent Learning Systems        |
-| Feature  | Dynamic interview generation        |
-| Impact   | Personalized preparation experience |
-
-</details>
 
 ---
 
